@@ -1,0 +1,62 @@
+[
+    {
+        "title":"Red floral sleeveless midi dress",
+        "imagename":"women1p.jpg",
+        "price":"895"
+    },
+    {
+        "title":"Violet Printed Straight Kurta",
+        "imagename":"women2p.jpg",
+        "price":"599"
+    },
+    {
+        "title":"Black Crop Denim Jacket",
+        "imagename":"women3p.jpg",
+        "price":"1999"
+    },
+    {
+        "title":" Pure Cotton Formal Shirt ",
+        "imagename":"men1p.jpg",
+        "price":"999"
+    },
+    {
+        "title":"Men Navy blue Relaxed Fit Sweatshirt",
+        "imagename":"men2p.jpg",
+        "price":"799"
+    },
+    {
+        "title":"Men Black Solid Slim-Fit Track Pants",
+        "imagename":"men3p.jpg",
+        "price":"555"
+    },
+    {
+        "title":"Boys White Cotton T-shirt",
+        "imagename":"kids1p.jpg",
+        "price":"269"
+    },
+    {
+        "title":"Girls Pack of 2 T-shirts with 2 Shorts",
+        "imagename":"kids2p.jpg",
+        "price":"589"
+    },
+    {
+        "title":"Girls Blue Stretchable Jeans",
+        "imagename":"kids3p.jpg",
+        "price":"799"
+    },
+    {
+        "title":"Women skyblue party wear",
+        "imagename":"weds1p.jpg",
+        "price":"3999"
+    },
+    {
+        "title":"Men orange and pink sherwani",
+        "imagename":"weds2p.jpg",
+        "price":"2999"
+    },
+    {
+        "title":"Girls Red Embellished Maxi Dress",
+        "imagename":"weds3p.jpg",
+        "price":"859"
+    }
+]
